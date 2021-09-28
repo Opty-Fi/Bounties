@@ -1,5 +1,5 @@
 # Bounties
-Opty-Fi sponsored Gitcoin bounties
+Opty-Fi sponsored bounties
 
 ## Getting Started
 
